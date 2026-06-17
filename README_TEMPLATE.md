@@ -22,9 +22,11 @@ Explique brevemente o objetivo do projeto.
 
 ## Tecnologias utilizadas
 
-- 
-- 
-- 
+Exemplo:
+
+- Arduino
+- ROS2
+- Python
 
 ## Estrutura do repositório
 

@@ -155,7 +155,10 @@ Dessa forma, a organização mantém uma separação clara entre projetos em des
     <a href="mailto:unipdroidians@gmail.com">
         <img src="https://img.shields.io/badge/E--mail%20Equipe-unipdroidians%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail da equipe"> 
     </a>
-    <a href="https://www.instagram.com/droidians.official/">
+</p>
+
+<p align="left">
+     <a href="https://www.instagram.com/droidians.official/">
         <img src="https://img.shields.io/badge/Instagram-droidians.official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://www.unipdroidians.com">
