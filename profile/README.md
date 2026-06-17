@@ -63,6 +63,8 @@ Seu desenvolvimento tem como objetivo ampliar as capacidades de pesquisa da equi
 
 ## Projetos associados
 
+| Projetos                                          |                                                                               |
+| ------------------------------------------------ | ----------------------------------------------------------------------------- |
 | 🏁 Robôs seguidores de linha                     | Desenvolvimento de robôs autônomos para navegação em pistas e desafios de percurso.       |
 | 🤼 Robôs de sumô                                 | Projeto e construção de robôs voltados para competições de combate autônomo.              |
 | ⚽ Futebol de robôs                              | Desenvolvimento de soluções robóticas aplicadas a desafios de futebol autônomo.           |
