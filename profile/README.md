@@ -1,51 +1,26 @@
 # UnipDroidians
 
-## Apresentação
-
-A Equipe de Robótica da Universidade Paulista (UNIP) é uma iniciativa acadêmica criada com o propósito de promover, disseminar e fortalecer a cultura da robótica, da automação e da inovação tecnológica no ambiente universitário.
-Idealizada com o apoio institucional e patrocínio da Reitora Sandra Miessa, a equipe nasceu da visão de que a robótica representa uma das principais ferramentas para a formação dos profissionais que atuarão nos desafios tecnológicos da sociedade e da indústria do futuro.
-Mais do que desenvolver robôs, buscamos construir conhecimento, estimular a criatividade, fomentar a pesquisa aplicada e aproximar os estudantes das tecnologias que estão transformando o mundo.
-
-## Nossa história
-
-A criação da Equipe de Robótica UNIP representa um importante marco no fortalecimento das atividades de ensino, pesquisa e extensão da universidade.
-A iniciativa surgiu do desejo institucional de ampliar as oportunidades de desenvolvimento tecnológico para os estudantes, criando um ambiente colaborativo onde teoria e prática caminham juntas. Com o incentivo e patrocínio da Reitora Sandra Miessa, a equipe foi estruturada para atuar como um polo de inovação, reunindo alunos, professores e pesquisadores em torno de projetos de elevado conteúdo científico e tecnológico.
-Desde sua fundação, a equipe tem como compromisso disseminar a cultura da robótica dentro da universidade, incentivando a participação estudantil em projetos, competições, pesquisas e eventos acadêmicos nacionais e internacionais.
-
 ## Quem somos
 
-Somos uma equipe multidisciplinar formada por estudantes, professores e pesquisadores das áreas de Engenharia, Computação, Tecnologia e Ciências Aplicadas.
-Nossos integrantes compartilham o interesse pelo desenvolvimento de soluções robóticas inovadoras, atuando de forma colaborativa em projetos que envolvem mecânica, eletrônica, programação, inteligência artificial, automação e sistemas embarcados.
-Acreditamos que a integração de diferentes áreas do conhecimento é fundamental para a formação de profissionais capazes de enfrentar os desafios tecnológicos do futuro.
+A Equipe de Robótica da Universidade Paulista (UNIP) é uma iniciativa acadêmica criada para promover a cultura da robótica, da automação e da inovação tecnológica no ambiente universitário. Idealizada com apoio institucional e patrocínio da Reitora Sandra Miessa, a equipe fortalece a integração entre ensino, pesquisa e extensão, aproximando os estudantes das tecnologias que estão transformando a sociedade e a indústria.
 
-## Objetivo
+Somos uma equipe multidisciplinar formada por estudantes, professores e pesquisadores das áreas de Engenharia, Computação, Tecnologia e Ciências Aplicadas. Desenvolvemos projetos que integram mecânica, eletrônica, programação, inteligência artificial, automação e sistemas embarcados.
 
-Nosso principal objetivo é promover a formação técnica, científica e humana dos estudantes por meio do desenvolvimento de projetos de robótica e automação.
-Buscamos disseminar a cultura da robótica na universidade, incentivar a pesquisa aplicada, estimular a inovação tecnológica e representar a instituição em competições, eventos científicos e iniciativas de desenvolvimento tecnológico.
-Também temos como missão contribuir para a formação de profissionais preparados para atuar em ambientes multidisciplinares, conectando ensino, pesquisa e aplicações práticas da engenharia.
+Nosso objetivo é proporcionar formação técnica, científica e humana por meio de projetos, pesquisas, competições e eventos acadêmicos. Mais do que desenvolver robôs, buscamos estimular a criatividade, a colaboração e a aplicação prática do conhecimento, formando profissionais preparados para enfrentar os desafios tecnológicos do futuro.
 
 ## Áreas de atuação
 
-### 🤖 Robótica Móvel
-Desenvolvimento de robôs autônomos e sistemas inteligentes de navegação.
-
-### 💻 Programação
-Desenvolvimento de software, ROS 2, inteligência artificial, visão computacional e algoritmos de controle.
-
-### ⚡ Eletrônica
-Projeto de circuitos, integração de sensores, atuadores e sistemas de comunicação.
-
-### ⚙️ Mecânica
-Projeto e fabricação de estruturas, mecanismos e sistemas de movimentação.
-
-### 🏭 Automação
-Desenvolvimento de sistemas de controle e automação aplicados à robótica.
-
-### 🔲 Sistemas Embarcados
-Aplicações utilizando microcontroladores, computadores embarcados e sistemas de tempo real.
-
-### 🔬 Pesquisa e Desenvolvimento
-Investigação de novas tecnologias e desenvolvimento de soluções inovadoras em robótica.
+| Área               | Descrição                                                                                                    |
+|--------------------|--------------------------------------------------------------------------------------------------------------|
+| 🤖 Robótica Móvel | Desenvolvimento de robôs autônomos e sistemas inteligentes de navegação.                                      |
+| 💻 Programação | Desenvolvimento de software, ROS 2, inteligência artificial, visão computacional e algoritmos de controle.       |
+| ⚡ Eletrônica | Projeto de circuitos, integração de sensores, atuadores e sistemas de comunicação.                                |
+| ⚙️ Mecânica | Projeto e fabricação de estruturas, mecanismos e sistemas de movimentação.                                          |
+| 🏭 Automação | Desenvolvimento de sistemas de controle e automação aplicados à robótica.                                          |
+| 🔲 Sistemas Embarcados | Aplicações utilizando microcontroladores, computadores embarcados e sistemas de tempo real.              |
+| 🔬 Pesquisa e Desenvolvimento | Investigação de novas tecnologias e desenvolvimento de soluções inovadoras em robótica.           |
+| 🧠 Inteligência artificial e visão computacional | Aplicações de IA, reconhecimento visual e processamento de imagens.            |
+| 📚 Documentação técnica e científica  | Produção de registros, guias, relatórios e materiais de apoio para os projetos da equipe. |
 
 ## Projetos em destaque
 
@@ -71,11 +46,6 @@ Seu desenvolvimento tem como objetivo ampliar as capacidades de pesquisa da equi
 | 🏆 RoboQuest                                     | Competição interna voltada ao aprendizado, integração e evolução técnica da equipe.       |
 | 🚚 Robôs móveis autônomos                        | Desenvolvimento de AMRs com foco em navegação, controle e autonomia.                      |
 | 🤝 Interação humano-robô                         | Projetos voltados à comunicação, comportamento e interação entre pessoas e robôs.         |
-| 🧭 Navegação autônoma                            | Sistemas de navegação utilizando ROS 2, sensores e algoritmos de controle.                |
-| 🧠 Inteligência artificial e visão computacional | Aplicações de IA, reconhecimento visual e processamento de imagens.                       |
-| 🔬 Pesquisa e desenvolvimento                    | Projetos experimentais voltados à inovação e validação de novas tecnologias.              |
-| 🔲 Sistemas embarcados e IoT                     | Aplicações com microcontroladores, sensores, atuadores e comunicação entre dispositivos.  |
-| 📚 Documentação técnica e científica             | Produção de registros, guias, relatórios e materiais de apoio para os projetos da equipe. |
 
 ## Competições e participações
 
@@ -88,7 +58,7 @@ Seu desenvolvimento tem como objetivo ampliar as capacidades de pesquisa da equi
 - 🚀 Eventos de inovação e empreendedorismo
 - 🎓 Semanas acadêmicas e projetos de extensão
 
-## Conquistas
+## Marcos e resultados
 
 - 🏆 Participação em competições de robótica;
 - 📄 Produção de publicações científicas;
@@ -97,10 +67,6 @@ Seu desenvolvimento tem como objetivo ampliar as capacidades de pesquisa da equi
 - 🤝 Formação de parcerias acadêmicas e industriais;
 - 🎓 Capacitação de estudantes em áreas técnicas e científicas;
 - 🌎 Divulgação e fortalecimento da cultura da robótica.
-
-A Equipe de Robótica UNIP segue comprometida com a excelência acadêmica, a inovação tecnológica e a disseminação da cultura da robótica, contribuindo para a formação de profissionais capazes de transformar conhecimento em soluções para a sociedade.
-
-Formando os profissionais que construirão o futuro da robótica!
 
 ## Tecnologias utilizadas
 
@@ -117,9 +83,7 @@ Formando os profissionais que construirão o futuro da robótica!
 
 ## Organização dos repositórios
 
-Os repositórios da equipe são organizados de forma padronizada para facilitar a identificação dos projetos, módulos e materiais técnicos.
-
-A nomenclatura dos repositórios ativos segue a estrutura:
+Os repositórios são organizados por categoria, robô e função, facilitando a identificação dos projetos e módulos desenvolvidos pela equipe.
 
 ```txt
 {Categoria}_{Nome do robô}_{Função do repositório}
@@ -132,9 +96,7 @@ Home_UDH1_navigation
 Home_UDH1_vision
 ```
 
-Durante o desenvolvimento, os repositórios permanecem privados e são utilizados internamente pela equipe para implementação, testes, documentação e evolução dos projetos.
-
-Após cada competição, poderá ser criado um repositório específico para a versão final apresentada, seguindo o padrão:
+Durante o desenvolvimento, os projetos permanecem privados para uso interno. Após as competições, versões finais poderão ser publicadas e arquivadas para consulta, divulgação e preservação do histórico técnico da equipe.
 
 ```txt
 {Competição}{Ano}_{Nome do robô}
@@ -145,8 +107,6 @@ Exemplo:
 ```txt
 OBR2026_UDH1
 ```
-
-Dessa forma, a organização mantém uma separação clara entre projetos em desenvolvimento, versões públicas pós-competição, documentações, materiais de apoio e arquivos históricos da equipe.
 
 ## Contato
 
