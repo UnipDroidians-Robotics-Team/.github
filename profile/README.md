@@ -24,17 +24,17 @@ Nosso objetivo é proporcionar formação técnica, científica e humana por mei
 
 ## Projetos em destaque
 
-A Equipe de Robótica UNIP desenvolve projetos voltados para ensino, pesquisa, inovação tecnológica e participação em competições acadêmicas. Cada projeto representa uma oportunidade de aplicar conhecimentos multidisciplinares e desenvolver soluções reais para desafios da robótica moderna.
+🤖 UD-H1
 
-### 🤖 UD-H1 – Plataforma Robótica da Equipe
+O UD-H1 é a plataforma robótica atualmente utilizada pela equipe em atividades de pesquisa, testes, desenvolvimento tecnológico e preparação para competições.
 
-O UD-H1 é a principal plataforma robótica atualmente em operação pela equipe. Desenvolvido para pesquisa, desenvolvimento e participação em competições, o robô reúne tecnologias de robótica móvel, sistemas embarcados, eletrônica, programação e automação.
-A plataforma tem sido utilizada em atividades de validação tecnológica, desenvolvimento de algoritmos de navegação, integração de sensores, testes experimentais e preparação para competições e eventos acadêmicos, constituindo-se como um importante ambiente de aprendizagem prática para os integrantes da equipe.
+<a href="../docs/tdp/TDP_UD-H1_CBR2025.pdf">
+  <img src="https://img.shields.io/badge/TDP-UD--H1%20%7C%20CBR%202025-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="TDP UD-H1 CBR 2025">
+</a>
 
-### 🚀 Rosie – Plataforma de Próxima Geração
+🚀 Rosie
 
-A Rosie representa a evolução tecnológica dos projetos desenvolvidos pela equipe. Atualmente em fase de desenvolvimento, a plataforma está sendo concebida para incorporar recursos avançados de navegação autônoma, inteligência artificial, interação humano-robô, visão computacional e integração com ROS 2.
-Seu desenvolvimento tem como objetivo ampliar as capacidades de pesquisa da equipe e preparar futuras participações em competições nacionais e internacionais de robótica de serviço.
+A Rosie é a plataforma robótica de próxima geração da equipe, atualmente em desenvolvimento para projetos de navegação autônoma, inteligência artificial, visão computacional e interação humano-robô.
 
 ## Projetos associados
 
