@@ -24,17 +24,17 @@ Nosso objetivo é proporcionar formação técnica, científica e humana por mei
 
 ## Projetos em destaque
 
-🤖 UD-H1
+### 🤖 UD-H1
 
-O UD-H1 é a plataforma robótica atualmente utilizada pela equipe em atividades de pesquisa, testes, desenvolvimento tecnológico e preparação para competições.
+O UD-H1 é a plataforma robótica utilizada pela equipe em atividades de pesquisa, desenvolvimento tecnológico e participação em competições de robótica de serviço.
 
-<a href="../docs/tdp/TDP_UD-H1_CBR2025.pdf">
-  <img src="https://img.shields.io/badge/TDP-UD--H1%20%7C%20CBR%202025-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="TDP UD-H1 CBR 2025">
-</a>
+📄 [Team Description Paper — UD-H1 | RoboCup Brazil 2025](https://drive.google.com/file/d/11ww-wr2phNZS1RJlTfM-87s0MKFhapgI/view?usp=sharing)
 
-🚀 Rosie
+### 🚀 Rosie
 
 A Rosie é a plataforma robótica de próxima geração da equipe, atualmente em desenvolvimento para projetos de navegação autônoma, inteligência artificial, visão computacional e interação humano-robô.
+
+📄 Team Description Paper — em desenvolvimento
 
 ## Projetos associados
 
