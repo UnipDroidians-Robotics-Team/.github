@@ -1,42 +1,43 @@
 ---
-name: Nova Função ou Melhoria
-about: Use este modelo para sugerir uma nova funcionalidade ou melhoria
+
+name: New Feature or Improvement
+about: Use this template to suggest a new feature or improvement
 title: "feat: "
 labels: enhancement
 assignees: ""
----
+-------------
 
-## Descrição da proposta
+## Proposal description
 
-Explique a nova função ou melhoria desejada.
+Explain the desired new feature or improvement.
 
-## Objetivo
+## Objective
 
-Qual problema essa melhoria resolve?
+What problem does this improvement solve?
 
-## Justificativa
+## Justification
 
-Por que isso é importante para o projeto?
+Why is this important to the project?
 
-## Projeto relacionado
+## Related project
 
-Marque o projeto relacionado:
+Select the related project:
 
-- [ ] Robô seguidor de linha
-- [ ] Robô sumô
-- [ ] Robô social
-- [ ] Documentação
-- [ ] Organização GitHub
-- [ ] Outro
+* [ ] Line-following robot
+* [ ] Sumo robot
+* [ ] Social robot
+* [ ] Documentation
+* [ ] GitHub organization
+* [ ] Other
 
-## Requisitos esperados
+## Expected requirements
 
-Liste o que essa melhoria precisa ter:
+List the requirements for this improvement:
 
-- [ ] 
-- [ ] 
-- [ ] 
+* [ ]
+* [ ]
+* [ ]
 
-## Observações adicionais
+## Additional information
 
-Adicione referências, imagens, links ou ideias complementares.
+Add relevant references, images, links, or complementary ideas.

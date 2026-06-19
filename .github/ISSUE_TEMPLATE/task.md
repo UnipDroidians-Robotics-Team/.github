@@ -1,42 +1,43 @@
 ---
-name: Tarefa Técnica
-about: Use este modelo para registrar tarefas internas da equipe
+
+name: Technical Task
+about: Use this template to track internal team tasks
 title: "task: "
 labels: task
 assignees: ""
----
+-------------
 
-## Descrição da tarefa
+## Task description
 
-Explique o que precisa ser feito.
+Explain what needs to be done.
 
-## Motivo
+## Reason
 
-Por que essa tarefa é necessária?
+Why is this task necessary?
 
-## Etapas
+## Steps
 
-- [ ] 
-- [ ] 
-- [ ] 
+* [ ]
+* [ ]
+* [ ]
 
-## Responsável
+## Assignee
 
-Nome do integrante responsável:
+Name of the team member responsible:
 
-## Prazo
+## Deadline
 
-Data prevista para conclusão:
+Expected completion date:
 
-## Projeto relacionado
+## Related project
 
-- [ ] Robô seguidor de linha
-- [ ] Robô sumô
-- [ ] Robô social
-- [ ] Documentação
-- [ ] Organização GitHub
-- [ ] Outro
+* [ ] Line-following robot
+* [ ] Sumo robot
+* [ ] Social robot
+* [ ] Documentation
+* [ ] GitHub organization
+* [ ] Other
 
-## Observações
+## Notes
 
-Adicione informações importantes.
+Add any important information.

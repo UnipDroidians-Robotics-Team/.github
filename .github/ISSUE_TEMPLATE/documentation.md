@@ -1,44 +1,45 @@
 ---
-name: Documentação
-about: Use este modelo para solicitar criação ou atualização de documentação
+
+name: Documentation
+about: Use this template to request new documentation or updates to existing documentation
 title: "docs: "
 labels: documentation
 assignees: ""
----
+-------------
 
-## O que precisa ser documentado?
+## What needs to be documented?
 
-Explique qual parte precisa de documentação.
+Explain which part of the project requires documentation.
 
-## Tipo de documentação
+## Documentation type
 
-- [ ] README
-- [ ] Guia de montagem
-- [ ] Guia de instalação
-- [ ] Explicação de código
-- [ ] Lista de materiais
-- [ ] Esquema elétrico
-- [ ] Procedimento de teste
-- [ ] Outro
+* [ ] README
+* [ ] Assembly guide
+* [ ] Installation guide
+* [ ] Code explanation
+* [ ] Bill of materials
+* [ ] Electrical schematic
+* [ ] Testing procedure
+* [ ] Other
 
-## Motivo
+## Reason
 
-Por que essa documentação é necessária?
+Why is this documentation necessary?
 
-## Informações que devem constar
+## Required information
 
-- [ ] 
-- [ ] 
-- [ ] 
+* [ ]
+* [ ]
+* [ ]
 
-## Projeto relacionado
+## Related project
 
-- [ ] Robô seguidor de linha
-- [ ] Robô sumô
-- [ ] Robô social
-- [ ] Organização GitHub
-- [ ] Outro
+* [ ] Line-following robot
+* [ ] Sumo robot
+* [ ] Social robot
+* [ ] GitHub organization
+* [ ] Other
 
-## Observações adicionais
+## Additional information
 
-Adicione imagens, links ou referências.
+Add relevant images, links, or references.

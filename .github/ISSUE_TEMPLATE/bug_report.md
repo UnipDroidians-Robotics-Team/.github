@@ -1,46 +1,48 @@
 ---
-name: Erro ou Bug
-about: Use este modelo para relatar problemas encontrados no projeto
+
+name: Bug Report
+about: Use this template to report problems found in the project
 title: "fix: "
 labels: bug
 assignees: ""
----
+-------------
 
-## Descrição do problema
+## Problem description
 
-Descreva de forma clara o erro encontrado.
+Clearly describe the problem you found.
 
-## Onde o problema ocorre?
+## Where does the problem occur?
 
-Informe o local do problema.
+Specify where the problem occurs.
 
-Exemplo:
-- Código do Arduino
-- Sensor QTR
-- Motor/driver
-- Documentação
-- Estrutura do repositório
+Examples:
 
-## Como reproduzir
+* Arduino code
+* QTR sensor
+* Motor or motor driver
+* Documentation
+* Repository structure
 
-Passos para reproduzir o erro:
+## Steps to reproduce
+
+Describe the steps required to reproduce the problem:
 
 1.
 2.
 3.
 
-## Comportamento esperado
+## Expected behavior
 
-Descreva o que deveria acontecer.
+Describe what should happen.
 
-## Comportamento atual
+## Current behavior
 
-Descreva o que está acontecendo de errado.
+Describe what is currently happening.
 
-## Evidências
+## Evidence
 
-Adicione prints, fotos, vídeos, logs ou mensagens de erro, se houver.
+Add screenshots, photos, videos, logs, or error messages, if available.
 
-## Observações adicionais
+## Additional information
 
-Adicione qualquer informação importante.
+Add any other relevant information.

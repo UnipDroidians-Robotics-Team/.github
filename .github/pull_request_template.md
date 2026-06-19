@@ -1,62 +1,65 @@
-## Descrição
+## Description
 
-Explique de forma objetiva o que foi alterado neste Pull Request.
+Clearly explain what was changed in this Pull Request.
 
-## Tipo de alteração
+## Type of change
 
-Marque a opção correspondente:
+Select the appropriate option:
 
-- [ ] feat - nova função
-- [ ] fix - correção de erro
-- [ ] docs - alteração em documentação
-- [ ] refactor - reorganização ou melhoria interna do código
-- [ ] chore - manutenção, configuração ou estrutura
-- [ ] test - testes
+* [ ] feat — new feature
+* [ ] fix — bug fix
+* [ ] docs — documentation change
+* [ ] refactor — code reorganization or internal improvement
+* [ ] chore — maintenance, configuration, or repository structure
+* [ ] test — tests
 
-## Projeto relacionado
+## Related project
 
-- [ ] Robô seguidor de linha
-- [ ] Robô sumô
-- [ ] Robô social
-- [ ] Documentação
-- [ ] Organização GitHub
-- [ ] Outro
+* [ ] Line-following robot
+* [ ] Sumo robot
+* [ ] Social robot
+* [ ] Documentation
+* [ ] GitHub organization
+* [ ] Other
 
-## O que foi feito?
+## What was done?
 
-Liste as principais alterações:
+List the main changes:
 
-- 
-- 
-- 
+*
+*
+*
 
-## Como foi testado?
+## How was it tested?
 
-Explique quais testes foram realizados.
+Explain which tests were performed.
 
-Exemplo:
-- [ ] Testado no computador
-- [ ] Testado no robô
-- [ ] Testado com Arduino
-- [ ] Testado com sensores/motores
-- [ ] Alteração apenas documental
+Examples:
+
+* [ ] Tested on a computer
+* [ ] Tested on the robot
+* [ ] Tested with Arduino
+* [ ] Tested with sensors or motors
+* [ ] Documentation-only change
 
 ## Checklist
 
-- [ ] O código foi revisado antes do envio
-- [ ] A branch está atualizada com a main
-- [ ] O nome do commit segue o padrão da equipe
-- [ ] A documentação foi atualizada, se necessário
-- [ ] Não foram enviados arquivos desnecessários, como build, cache ou arquivos temporários
+* [ ] The code was reviewed before submission
+* [ ] The branch is up to date with `main`
+* [ ] Commit messages follow the team standard
+* [ ] Documentation was updated, if necessary
+* [ ] No unnecessary files were included, such as builds, caches, or temporary files
 
-## Issues relacionadas
+## Related issues
 
-Informe se este PR resolve alguma issue.
+Indicate whether this Pull Request resolves any issue.
 
-Exemplo:
+Example:
 
+```text
 Closes #1
+```
 
-## Observações adicionais
+## Additional information
 
-Adicione qualquer informação importante para a revisão.
+Add any important information for the review.

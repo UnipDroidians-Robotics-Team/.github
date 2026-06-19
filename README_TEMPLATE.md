@@ -1,38 +1,39 @@
-# Nome do Projeto
+# Project Name
 
-## Descrição
+## Description
 
-Explique brevemente o objetivo do projeto.
+Briefly explain the purpose of the project.
 
 ## Status
 
-- [ ] Em planejamento
-- [ ] Em desenvolvimento
-- [ ] Em teste
-- [ ] Finalizado
-- [ ] Arquivado
+* [ ] Planning
+* [ ] In development
+* [ ] Testing
+* [ ] Completed
+* [ ] Archived
 
-## Projeto relacionado
+## Related project
 
-- [ ] Robô seguidor de linha
-- [ ] Robô sumô
-- [ ] Robô social
-- [ ] Organização GitHub
-- [ ] Outro
+* [ ] Line-following robot
+* [ ] Sumo robot
+* [ ] Social robot
+* [ ] GitHub organization
+* [ ] Other
 
-## Tecnologias utilizadas
+## Technologies used
 
-Exemplo:
+Examples:
 
-- Arduino
-- ROS2
-- Python
+* Arduino
+* ROS 2
+* Python
 
-## Estrutura do repositório
+## Repository structure
 
-```txt
-nome-do-repositorio/
+```text
+repository-name/
 ├── src/
 ├── docs/
 ├── tests/
 └── README.md
+```
