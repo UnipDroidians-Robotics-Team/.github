@@ -36,7 +36,7 @@ UD-H1 is the robotic platform used by the team for research, technological devel
 
 Rosie is the team's next-generation robotic platform, currently under development for autonomous navigation, artificial intelligence, computer vision, and human-robot interaction projects.
 
-📄 Team Description Paper — under development
+📄 [Team Description Paper — Rosie | RoboCup Brazil 2026](https://drive.google.com/file/d/1hCOjBfVXrjtruYtipyfLZrwpiAQb95o5/view?usp=sharing)
 
 ## Associated Projects
 
@@ -174,7 +174,7 @@ O UD-H1 é a plataforma robótica utilizada pela equipe em atividades de pesquis
 
 A Rosie é a plataforma robótica de próxima geração da equipe, atualmente em desenvolvimento para projetos de navegação autônoma, inteligência artificial, visão computacional e interação humano-robô.
 
-📄 Team Description Paper — em desenvolvimento
+📄 [Team Description Paper — Rosie | RoboCup Brazil 2026](https://drive.google.com/file/d/1hCOjBfVXrjtruYtipyfLZrwpiAQb95o5/view?usp=sharing)
 
 ## Projetos associados
 
